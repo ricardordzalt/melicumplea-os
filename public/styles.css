@@ -1,0 +1,45 @@
+body {
+    background-image:  url("fondo.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #E5E5E5;
+}
+
+.titulo-hbd {
+    text-shadow: 4px 4px #B77FDD;
+    color: #FFFF00;
+}
+
+.btn-meli {
+    border-radius: 12px;
+    background-color: #B77FDD;
+    color: #FFFFFF;
+}
+
+.btn-meli:focus {
+    background-color: #B77FDD;
+    color: #FFFFFF;
+}
+
+.btn-meli:hover {
+    background-color: #B77FDD;
+    color: #FFFFFF;
+}
+
+.pastel-oculto {
+    display: none;
+}
+
+.modal-title {
+    color: #B77FDD;
+}
+
+.felicitacion {
+    color: #B77FDD;
+}
+
+.meli-imagen {
+    border-radius: 50%;
+}
